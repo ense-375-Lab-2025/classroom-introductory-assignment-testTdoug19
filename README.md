@@ -47,7 +47,7 @@ Assignments can make use of GitHub features to:
 
 </details>
 
-| <img alt="activity status" align="right" height="24" src="../../blob/status/.github/activity-icons/activity1.svg" /> :keyboard: Activity - Accept assignment |
+| :keyboard: Activity - Accept assignment |
 |:---|
 | <p>Chances are, if you are reading this, you have already accepted the assignment and have completed the task. Well done. :tada:<br />(You might need to refresh the page to see the completion status).</p><p>If you haven't accepted the assignment yet and are reading this from a central site, ask your teacher for the link to the assignment, then follow the [steps](#assignment-steps) to accepting a classroom assignment. |
 
@@ -78,17 +78,21 @@ To learn more about GitHub and its features, please __complete the MS Learn cour
 
 ---
 
-## :pencil: Feedback Pull-Request
+## :pencil: Push your commit
 
-A pull request (PR) is a feature of GitHub and part of the [GitHub flow](#terms). It provides a space and tools to review and discuss changes made on one branch before those changes are merged into another branch.
+If you cloned your repository to a local machine then you must push your changes to your GitHub repository.
 
-:tv: [Video: Introduction to pull requests](https://youtu.be/kJr-PIfLDl4)
-
-Your teacher might have setup a pull-request specifically for feedback. This PR will provide a place to see changes that you have made to the repo and a space for you to discuss with your teacher the code that you have written.
-
-| <img alt="activity status" align="right" height="24" src="../../blob/status/.github/activity-icons/activity3.svg" /> :keyboard: Activity - Comment on Feedback PR |
+:keyboard: Activity - Push |
 |:---|
-| Go to the [Feedback pull request](../../pull/1). At the bottom of the page you will find a comment form. Leave a comment asking your teacher to review your previous commit. |
+| There are a number of ways you can push your changes to your GitHub repository.  You may use an IDE or the command line.  If you use the command line you can push your commit like so:
+
+```bash
+
+> git push
+
+```
+
+|
 
 ---
 
