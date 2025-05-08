@@ -1,7 +1,5 @@
 # :wave: GitHub Classroom Introductory Assignment
 
-<img alt="points bar" align="right" height="36" src="../../blob/status/.github/activity-icons/points-bar.svg" />
-
 Starter lesson for assessing GitHub Classroom use.
 
 The goal of this assignment is to introduce learners to using GiHub Classroom assignments and to assess that learners have the necessary skill set to complete a classroom assignment.
@@ -74,7 +72,18 @@ To learn more about GitHub and its features, please __complete the MS Learn cour
 
 |:keyboard: Activity - Make commit |
 |:---|
-| <p>Make a commit to this assignment repo.</p><p>Edit the editme.md file and add a question for your teacher. When you have finished editing the file, save the changes and commit them to this repository.</p><p>You can either use the editing tools on GitHub to do this, or clone this repository to your local computer, make the changes, commit them and push the commit back to GitHub. </p> |
+| <p>Make a commit to this assignment repo.</p><p>Edit the editme.md file and add a question for your teacher. When you have finished editing the file, save the changes and commit them to this repository.</p><p>You can either use the editing tools on GitHub to do this, or clone this repository to your local computer, make the changes, commit them and push the commit back to GitHub.  Here is an examle to commit your changes from the command line.</p> 
+
+```bash
+
+> git commit -am "Making some changes to my code "
+
+```
+
+This stages and commits your changes in one command.
+
+
+|
 
 ---
 
@@ -91,7 +100,7 @@ If you cloned your repository to a local machine then you must push your changes
 > git push
 
 ```
-
+This will ensure that your latest changes to your assignment are updated to your repository and your assignemnt is ready to be graded.
 |
 
 ---
@@ -100,9 +109,9 @@ If you cloned your repository to a local machine then you must push your changes
 
 Complete the knowledge review quiz. There are five multiple choice questions on the topics covered in this lesson.
 
-| <img alt="activity status" align="right" height="24" src="../../blob/status/.github/activity-icons/quiz.svg" /> :keyboard: Activity - Review quiz |
+| :keyboard: Activity - Review quiz |
 |:---|
-| Edit the [`quiz.md`](../../edit/main/quiz.md) file and add your answers to each question on the same line as and after where it says 'Answer: '. When you have finished answering the questions, save the file, commit the changes and push your commit back to GitHub. |
+| Edit the quiz.md file and add your answers to each question on the same line as and after where it says 'Answer: '. When you have finished answering the questions, save the file, commit the changes and push your commit back to GitHub. |
 
 ---
 
